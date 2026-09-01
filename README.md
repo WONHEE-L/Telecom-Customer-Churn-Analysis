@@ -22,11 +22,12 @@ The telco customer churn dataset contains fictional company data that provides h
 
 It provides valuable multifaceted customer data, including their demographics, geographical location, adoption of multiple services, and churn status. The dataset allows us to identify the key factors influencing customer churn and develop a strategic approach to increase the retention rate. The dataset supports achieving business goals that improve revenue growth and customer retention by understanding root causes of churn, customer segmentation, service adoption and usage patterns. The data source from Kaggle originated from the IBM TechXchange Community blog.
 
-👉 Source Dataset from Kaggle: 
-https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics/data
+👉 Source Dataset from [Kaggle] 
+(https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics/data)
 
 👉 Data cleaning log document included a data dictionary + Link <br /> 
-
+<br /> 
+<br /> 
 
 ## 2. Objectives
 
@@ -35,7 +36,7 @@ https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-an
 - Analyze the root causes of churn drivers, early churn risk customers, and prioritize retention strategies.
 - Evaluate service performance to identify which service combinations generate high revenue and which customer - segments have cross-sell potential.
 - Segment customers by revenue contribution and service adoption to tailor customer support. <br /> 
-
+<br /> 
 
 ## 3. Data Structure Overview (ERD)
 
