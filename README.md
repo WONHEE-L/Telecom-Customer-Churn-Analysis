@@ -13,8 +13,8 @@ The Telecom customer churn analysis project demonstrates revenue, churn, service
    - Customer Segmentation Analysis
    - Services Adoption Analysis
 6. Strategic Recommendations
-7. Caveats & Assumptions
-   
+7. Caveats & Assumptions <br /> 
+
 
 ## 1. Dataset Background and Overview
 
@@ -25,7 +25,7 @@ It provides valuable multifaceted customer data, including their demographics, g
 👉 Source Dataset from Kaggle: 
 https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics/data
 
-👉 Data cleaning log document included a data dictionary + Link
+👉 Data cleaning log document included a data dictionary + Link <br /> 
 
 
 ## 2. Objectives
@@ -34,7 +34,7 @@ https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-an
 - Identify revenue stream and profitability across customer segments.
 - Analyze the root causes of churn drivers, early churn risk customers, and prioritize retention strategies.
 - Evaluate service performance to identify which service combinations generate high revenue and which customer - segments have cross-sell potential.
-- Segment customers by revenue contribution and service adoption to tailor customer support.
+- Segment customers by revenue contribution and service adoption to tailor customer support. <br /> 
 
 
 ## 3. Data Structure Overview (ERD)
